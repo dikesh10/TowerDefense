@@ -1,0 +1,494 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Start",
+      "request": "launch",
+      "mainClass": "view.Start",
+      "projectName": "towerdefense_7633c5fa"
+    },
+    {
+      "type": "java",
+      "name": "Mouse",
+      "request": "launch",
+      "mainClass": "view.Mouse",
+      "projectName": "towerdefense_f1b8725d"
+    },
+    {
+      "type": "java",
+      "name": "MapConfig",
+      "request": "launch",
+      "mainClass": "model.MapConfig",
+      "projectName": "towerdefense_f1b8725d"
+    },
+    {
+      "type": "java",
+      "name": "MapConfig_Simple",
+      "request": "launch",
+      "mainClass": "model.MapConfig_Simple",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "MapConfig_Simple",
+      "request": "launch",
+      "mainClass": "model.MapConfig_Simple",
+      "projectName": "towerdefense_f1b8725d"
+    },
+    {
+      "type": "java",
+      "name": "MapConfig_Moyen",
+      "request": "launch",
+      "mainClass": "model.MapConfig_Moyen",
+      "projectName": "towerdefense_f1b8725d"
+    },
+    {
+      "type": "java",
+      "name": "PlantvsZombie1",
+      "request": "launch",
+      "mainClass": "view.PlantvsZombie1",
+      "projectName": "towerdefense_f1b8725d"
+    },
+    {
+      "type": "java",
+      "name": "Mode",
+      "request": "launch",
+      "mainClass": "view.Mode",
+      "projectName": "towerdefense_f1b8725d"
+    },
+    {
+      "type": "java",
+      "name": "Launcher",
+      "request": "launch",
+      "mainClass": "model.Launcher",
+      "projectName": "towerdefense_f1b8725d"
+    },
+    {
+      "type": "java",
+      "name": "Start",
+      "request": "launch",
+      "mainClass": "view.Start",
+      "projectName": "towerdefense_f1b8725d"
+    },
+    {
+      "type": "java",
+      "name": "Levels",
+      "request": "launch",
+      "mainClass": "view.Levels",
+      "projectName": "towerdefense_f1b8725d"
+    },
+    {
+      "type": "java",
+      "name": "PlantvsZombie",
+      "request": "launch",
+      "mainClass": "view.PlantvsZombie",
+      "projectName": "towerdefense_f1b8725d"
+    },
+    {
+      "type": "java",
+      "name": "Start",
+      "request": "launch",
+      "mainClass": "view.Start",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "PlantvsZombie",
+      "request": "launch",
+      "mainClass": "view.PlantvsZombie",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "Levels",
+      "request": "launch",
+      "mainClass": "view.Levels",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "Start",
+      "request": "launch",
+      "mainClass": "view.Start",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "MapConfig_Simple",
+      "request": "launch",
+      "mainClass": "model.MapConfig_Simple",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "Print",
+      "request": "launch",
+      "mainClass": "model.Print",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "Elements",
+      "request": "launch",
+      "mainClass": "vu.Elements",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "Levels",
+      "request": "launch",
+      "mainClass": "vu.Levels",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "PlantvsZombie",
+      "request": "launch",
+      "mainClass": "vu.PlantvsZombie",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "Add",
+      "request": "launch",
+      "mainClass": "vu.Add",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "testest",
+      "request": "launch",
+      "mainClass": "vu.testest",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "zooz",
+      "request": "launch",
+      "mainClass": "vu.zooz",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "T",
+      "request": "launch",
+      "mainClass": "vu.T",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "MouseClickListenerExample",
+      "request": "launch",
+      "mainClass": "vu.MouseClickListenerExample",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "GamePanel",
+      "request": "launch",
+      "mainClass": "vu.GamePanel",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "Background",
+      "request": "launch",
+      "mainClass": "vu.Background",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "Trash1",
+      "request": "launch",
+      "mainClass": "vu.Trash1",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "Launch",
+      "request": "launch",
+      "mainClass": "vu.Launch",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "vu.Test",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "TestPanel",
+      "request": "launch",
+      "mainClass": "vu.TestPanel",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "CombinedGame",
+      "request": "launch",
+      "mainClass": "vu.CombinedGame",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "ImageDisplayDemo",
+      "request": "launch",
+      "mainClass": "vu.ImageDisplayDemo",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "Trash",
+      "request": "launch",
+      "mainClass": "vu.Trash",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "vu.Test1",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "LocalImageDisplayDemo",
+      "request": "launch",
+      "mainClass": "vu.LocalImageDisplayDemo",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "ImageDisplayDemo",
+      "request": "launch",
+      "mainClass": "vu.ImageDisplayDemo",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "MovingObjectDemo",
+      "request": "launch",
+      "mainClass": "vu.MovingObjectDemo",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "Trash1",
+      "request": "launch",
+      "mainClass": "vu.Trash1",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "Trash",
+      "request": "launch",
+      "mainClass": "vu.Trash",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "Background",
+      "request": "launch",
+      "mainClass": "vu.Background",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "Enemy2",
+      "request": "launch",
+      "mainClass": "model.enemy.Enemy2",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "Enemy1",
+      "request": "launch",
+      "mainClass": "model.enemy.Enemy1",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "CombinedGame",
+      "request": "launch",
+      "mainClass": "vu.CombinedGame",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "GamePanel",
+      "request": "launch",
+      "mainClass": "vu.GamePanel",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "AnimatedImageOverlayExample",
+      "request": "launch",
+      "mainClass": "vu.AnimatedImageOverlayExample",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "ImageOverlayExample",
+      "request": "launch",
+      "mainClass": "vu.ImageOverlayExample",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "ImagePanel",
+      "request": "launch",
+      "mainClass": "vu.ImagePanel",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "Test1",
+      "request": "launch",
+      "mainClass": "vu.Test1",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "vu.Test",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "Levels",
+      "request": "launch",
+      "mainClass": "vu.Levels",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "Start",
+      "request": "launch",
+      "mainClass": "vu.Start",
+      "projectName": "TowerDefense_4ed7a26b"
+    },
+    {
+      "type": "java",
+      "name": "Launcher",
+      "request": "launch",
+      "mainClass": "model.Launcher",
+      "projectName": "TowerDefense_4ed7a26b"
+    },
+    {
+      "type": "java",
+      "name": "Marathon",
+      "request": "launch",
+      "mainClass": "model.Marathon",
+      "projectName": "TowerDefense_4ed7a26b"
+    },
+    {
+      "type": "java",
+      "name": "MapConfig1",
+      "request": "launch",
+      "mainClass": "model.MapConfig1",
+      "projectName": "TowerDefense_4ed7a26b"
+    },
+    {
+      "type": "java",
+      "name": "MapConfig",
+      "request": "launch",
+      "mainClass": "model.MapConfig",
+      "projectName": "TowerDefense_4ed7a26b"
+    },
+    {
+      "type": "java",
+      "name": "MapConfig1",
+      "request": "launch",
+      "mainClass": "model.MapConfig1",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "MapConfig1",
+      "request": "launch",
+      "mainClass": "model.MapConfig1",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "Launcher",
+      "request": "launch",
+      "mainClass": "model.Launcher",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "GridGUI",
+      "request": "launch",
+      "mainClass": "model.GridGUI",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "GridGUI",
+      "request": "launch",
+      "mainClass": "model.GridGUI",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "Launcher",
+      "request": "launch",
+      "mainClass": "model.Launcher",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "Start",
+      "request": "launch",
+      "mainClass": "vu.Start",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "type": "java",
+      "name": "PP",
+      "request": "launch",
+      "mainClass": "model.test.PP",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "Print",
+      "request": "launch",
+      "mainClass": "model.Print",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "Start",
+      "request": "launch",
+      "mainClass": "vu.Start",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "MapConfig",
+      "request": "launch",
+      "mainClass": "model.MapConfig",
+      "projectName": "towerdefense_e3c98b51"
+    },
+    {
+      "type": "java",
+      "name": "MapConfig",
+      "request": "launch",
+      "mainClass": "model.MapConfig",
+      "projectName": "towerdefense_f1fc51a"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "pwa-chrome",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}

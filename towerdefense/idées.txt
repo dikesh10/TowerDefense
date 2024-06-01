@@ -1,0 +1,24 @@
+faire un script bash pour executer lel projet
+
+
+Cell
+------
+
+boolean arme;  // pour voir si l'arme est posé sur cette cellule
+Arme a;   //   pout voir quel type de l'arme est posé dcp il faut crée un classe Arme
+boolean fantômes //  pour voir si fantômes est bien present ou pas  si fantom/zombie est présent attaquer  sur arme posé cellules
+fantome f;       // dcp crée une classe fantome comme avant
+
+
+si il y pas un arme dans le cellules alors fantomes/zombies peuvent contiuer le chemin
+si il y un arme dans le chemin /cell alors  fantomes/zombie attaque.
+
+// il faut en considérer  la vie de arme pose et la vie de fantomes.
+
+
+Spawner zombie caché après le border (colonne 10) après ça, les zombies apparaiteront dedans sans que le joueur voit car on affichera le tableau jusqu'à border
+
+
+La case 0 n'est pas une case ou on peut mettre des tours car c'est la case ou la base est, les tours doivent proteger mais n'y sont pas ! comme ça quand un mob ennemi y est alors il gagne, il sera a une case de plus que les tours
+
+ajouter de l'argent quand on tue un ennemi
